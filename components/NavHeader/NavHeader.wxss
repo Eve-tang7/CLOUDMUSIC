@@ -1,0 +1,17 @@
+/* components/NavHeader/NavHeader.wxss */
+.header{
+  padding-bottom: 20rpx;
+}
+
+.header .title{
+  font-size: 26rpx;
+  color: #333;
+}
+
+.header .more{
+  float: right;
+  border:1rpx solid #999999;
+  border-radius:10rpx;
+  font-size: 22rpx;
+  padding: 5rpx 10rpx;
+}

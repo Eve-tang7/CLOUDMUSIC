@@ -1,0 +1,5 @@
+{
+  "usingComponents": {},
+  "navigationBarTitleText": "视频中心",
+  "mp-loading": "weui-miniprogram/loading/loading"
+}
